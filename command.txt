@@ -39,5 +39,5 @@ command for adding changes in loavl repository to remote repository
 command to listing all the branches
     >git branch
 
-command to find the log details
+command to find the commit history
     >git log
