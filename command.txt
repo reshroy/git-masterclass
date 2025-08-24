@@ -1,11 +1,3 @@
-command for initializing git
-    >git init
-
-command for adding modified files to staging area
-    >git add -A
-
-command for adding all the staged files to local repository
-    >git commit -m "commit message"
 command for list configuration
     >git config --list
 
@@ -14,7 +6,15 @@ command for adding user name
 
 command for adding user email
     >git config --global user.email "userEmail@gamil.com"
+    
+command for initializing git
+    >git init
 
+command for adding modified files to staging area
+    >git add -A
+
+command for adding all the staged files to local repository
+    >git commit -m "commit message"
 
 flages
     A => staged
