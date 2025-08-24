@@ -10,11 +10,15 @@ command for adding user email
 command for initializing git
     >git init
 
+command to list untracked files
+    >git status
+    
 command for adding modified files to staging area
     >git add -A
 
 command for adding all the staged files to local repository
     >git commit -m "commit message"
+
 
 flages
     A => staged
