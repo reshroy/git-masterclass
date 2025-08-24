@@ -35,3 +35,9 @@ command to check whether the remote repository is added
 command for adding changes in loavl repository to remote repository
     >git push -u name branch_name
     eg: git push -u luminar master
+
+command to listing all the branches
+    >git branch
+
+command to find the log details
+    >git log
