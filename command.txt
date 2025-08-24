@@ -24,3 +24,14 @@ flages
     A => staged
     U => untraced
     M => modified
+
+command for adding remote repository
+    >git remote add name remote_path
+    eg: remote add luminar https://github.com/reshroy/git-masterclass.git
+
+command to check whether the remote repository is added
+    >git remote -v
+
+command for adding changes in loavl repository to remote repository
+    >git push -u name branch_name
+    eg: git push -u luminar master
