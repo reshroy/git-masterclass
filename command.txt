@@ -12,7 +12,7 @@ command for initializing git
 
 command to list untracked files
     >git status
-    
+
 command for adding modified files to staging area
     >git add -A
 
@@ -24,4 +24,3 @@ flages
     A => staged
     U => untraced
     M => modified
-
